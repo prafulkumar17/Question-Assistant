@@ -1,4 +1,4 @@
-# 📝 Questionare-Assistant – AI-Powered Question Generation  
+# 📝 GenAI-Assistant – AI-Powered Question Generation  
 
 ## 🚀 Overview  
 **Questionare-Assistant** is a **Streamlit** application built with a **RAG (Retrieval-Augmented Generation) architecture** backend. It enables users to generate questions dynamically from a provided **PDF document**, helping in personalized learning and content extraction.  
